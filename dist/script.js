@@ -1,0 +1,1 @@
+const links=[...document.querySelectorAll('.links a')];const observer=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting){links.forEach(a=>a.classList.toggle('active',a.hash==='#'+e.target.id));}})},{rootMargin:'-15% 0px -60% 0px'});document.querySelectorAll('section[id]').forEach(s=>observer.observe(s));
