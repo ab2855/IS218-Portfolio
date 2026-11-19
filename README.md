@@ -1,17 +1,73 @@
 # Career Fieldnotes — Project Record
 
 **Owner:** Ashlee Borges · Information Systems major  
-**Course:** IS218–003 · Review 1: Plan  
-**Updated:** November 12, 2026  
-**Status:** Research site created; partner review and submission checks pending.
+**Course:** IS218–003 · Reviews 1–2  
+**Updated:** November 19, 2026  
+**Status:** Readable portfolio draft and two layouts created; résumé details, LinkedIn and partner review pending.
 
-This README is the continuing public project record. Update this same file as decisions, feedback, changes, and verification accumulate. This stage is career research and portfolio planning, not a finished professional portfolio. Full career reflection and personal eligibility circumstances stay in private Canvas.
+This README is the continuing public project record. Update this same file as decisions, feedback, changes, and verification accumulate. This record retains the Review 1 research and adds the Review 2 readable draft; a finished professional portfolio is not claimed. Full career reflection and personal eligibility circumstances stay in private Canvas.
+
+## Review 2 — Readable portfolio draft
+
+**Checkpoint:** November 19, 2026 · Portfolio draft required; the Creative Project plan/SPEC-only exception does not apply here.
+
+### Current draft and both options
+
+- [Option A — Project cards](https://ab2855.github.io/IS218-Portfolio/?layout=a)
+- [Option B — Editorial list](https://ab2855.github.io/IS218-Portfolio/?layout=b)
+- [Résumé draft](https://ab2855.github.io/IS218-Portfolio/resume.html) · [Editable text source](dist/resume-draft.md)
+- [Career research retained from Review 1](https://ab2855.github.io/IS218-Portfolio/career.html)
+- [Companion AI/programming research site](https://ab2855.github.io/IS218-Game/)
+- [Checks and remaining limitations](CHECKS.md)
+- [GitHub profile](https://github.com/ab2855) · [Portfolio repository](https://github.com/ab2855/IS218-Portfolio) · [Creative Project repository](https://github.com/ab2855/IS218-Game)
+
+The same portfolio is also deployed at the existing Sites address above. Both options use one HTML content tree, shared case studies, one résumé and the same profile links. A URL parameter and CSS change presentation; there are not two separately maintained websites. GitHub Pages publication for this revision must be confirmed in Actions before submission.
+
+| Option | Presentation | What to ask a reader |
+| --- | --- | --- |
+| A — Project cards | Intro beside a rose panel; two project cards; four profile cards | Can the reader scan projects and find evidence quickly? |
+| B — Editorial list | Intro beside a burgundy sidebar; project rows; a compact two-column profile list | Does the linear reading order make the same evidence easier to follow? |
+
+**Working preference:** A is the default for scanning. B remains a real alternative for comparison. No human preference result is claimed.
+
+### Current case studies and résumé
+
+- **Career Fieldnotes:** question, owner/AI contributions, research decisions, current artifacts, evidence links, limits and next iteration.
+- **PanicType:** original typing-horror concept, pacer/scare decisions, plan/SPEC evidence and later implementation. The repository currently contains documentation, not a working account-based game.
+- **Résumé:** a readable HTML draft plus downloadable Markdown. Uses the confirmed name, Information Systems major, current project evidence and GitHub profile. Institution, degree details, graduation date, verified skills and work history are marked for owner completion. No qualifications or jobs were invented.
+- **LinkedIn:** pending. Personal profile URL was not supplied. The missing link is visible and is not counted as a completed requirement.
+
+### Review task and response
+
+[Prepared Review 2 task — issue #1](https://github.com/ab2855/IS218-Portfolio/issues/1) · Awaiting classmate feedback; not a review result.
+
+Ask a classmate: **“Find one project's evidence, open my résumé, and locate my GitHub profile in both layouts. Which option makes those tasks easier? Point to one specific confusing label or step.”**
+
+Record reviewer/date/revision/task/actual observation in a GitHub issue. Respond with accept/defer/decline and a reason. Link accepted changes and checks. Ask the same reviewer to retry before closing a resolved issue. Human review, owner/reviewer participation and retry remain pending; assistant checks do not replace them.
+
+### Checks performed for this draft
+
+On November 19, the assistant checked local HTML links/assets/fragment targets and unique IDs across the three HTML pages. In the desktop browser, switching A to B updated the URL and selected state; the main content text was identical before and after. The career case study expanded, résumé navigation opened the draft, and profile navigation reached the profile section. Both desktop layouts and the résumé were visually inspected. See CHECKS.md for details and limits.
+
+Mobile devices, cross-browser behavior, formal accessibility audit, résumé print/download behavior, human task completion and LinkedIn destination are untested. Historical employer-source checks remain dated November 11 and are not presented as fresh verification.
+
+### Changed / Checked / Next — Review 2
+
+**Changed:** Added one readable portfolio draft, two working layouts, two current case studies, a résumé draft and personal repository/profile links.  
+**Checked:** Desktop switching, identical shared content, case-study expansion, résumé/profile navigation and local links passed; peer review is unrun.  
+**Next:** Supply LinkedIn and résumé details, ask a classmate to compare both layouts, and record feedback, response and retry.
+
+---
+
+## Review 1 — Research and plan history
+
+The remaining sections preserve the November 12 planning record. Review 2 status and checks above supersede its pending items where explicitly updated.
 
 ## Current work
 
 - [Career research website](https://ashlee-career-fieldnotes.miniaturewombat.chatgpt.site) — deployed through Sites; reviewer access still needs confirmation.
 - [Repository](https://github.com/ab2855/IS218-Portfolio)
-- [Website source](dist/index.html)
+- [Current portfolio source](dist/index.html) · [Retained career research source](dist/career.html)
 - [Initial website change](https://github.com/ab2855/IS218-Portfolio/commit/493562f76d42572ee8f78fa7e5c74270af13e935)
 - [AI/programming project repository](https://github.com/ab2855/IS218-Game) — separate Creative Project work; its published research-site URL and reciprocal website links still need to be added.
 
