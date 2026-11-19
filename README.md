@@ -3,7 +3,7 @@
 **Owner:** Ashlee Borges · Information Systems major  
 **Course:** IS218–003 · Reviews 1–2  
 **Updated:** November 19, 2026  
-**Status:** Readable portfolio draft and two layouts created; résumé details, LinkedIn and partner review pending.
+**Status:** Readable portfolio draft and two layouts created; résumé and LinkedIn updated; partner review pending.
 
 This README is the continuing public project record. Update this same file as decisions, feedback, changes, and verification accumulate. This record retains the Review 1 research and adds the Review 2 readable draft; a finished professional portfolio is not claimed. Full career reflection and personal eligibility circumstances stay in private Canvas.
 
@@ -36,8 +36,8 @@ The same portfolio is also deployed at the existing Sites address above. Both op
 
 - **Career Fieldnotes:** question, owner/AI contributions, research decisions, current artifacts, evidence links, limits and next iteration.
 - **PanicType:** original typing-horror concept, pacer/scare decisions, plan/SPEC evidence and later implementation. The repository currently contains documentation, not a working account-based game.
-- **Résumé:** a readable HTML draft plus downloadable Markdown. Uses the confirmed name, Information Systems major, current project evidence and GitHub profile. Institution, degree details, graduation date, verified skills and work history are marked for owner completion. No qualifications or jobs were invented.
-- **LinkedIn:** pending. Personal profile URL was not supplied. The missing link is visible and is not counted as a completed requirement.
+- **Résumé:** a readable HTML draft plus downloadable Markdown. Uses the confirmed name, Information Systems major, current project evidence and GitHub profile. Updated November 19 from the supplied résumé: B.S. Information Systems at NJIT, expected May 2028, programming/language skills, technical support and retail roles, CurlQuest, NSBE leadership and volunteering. These are owner-provided claims. No qualifications or jobs were invented.
+- **LinkedIn:** [Ashlee Borges](https://www.linkedin.com/in/ashleeborges/) — supplied by the owner and added to both layouts and résumé.
 
 ### Review task and response
 
@@ -57,7 +57,7 @@ Mobile devices, cross-browser behavior, formal accessibility audit, résumé pri
 
 **Changed:** Added one readable portfolio draft, two working layouts, two current case studies, a résumé draft and personal repository/profile links.  
 **Checked:** Desktop switching, identical shared content, case-study expansion, résumé/profile navigation and local links passed; peer review is unrun.  
-**Next:** Supply LinkedIn and résumé details, ask a classmate to compare both layouts, and record feedback, response and retry.
+**Next:** Review résumé wording, ask a classmate to compare both layouts, and record feedback, response and retry.
 
 ---
 
@@ -171,3 +171,7 @@ The [GitHub Pages workflow](.github/workflows/pages.yml) publishes `dist/`. Sele
 **Next:** Confirm reviewer access, complete specific GitHub feedback and retry, and add reciprocal research-site links.
 
 **Canvas submission:** Link current work/repository, this same project record, and actual issue/change/check evidence; include the three short update lines. Keep full personal reflection private.
+
+## Résumé and LinkedIn update — November 19
+
+Replaced draft placeholders using the owner-supplied résumé. Added LinkedIn to the shared portfolio content and résumé, so both layouts use the same profile link. Phone and email omitted from the public version; the original PDF was not uploaded to GitHub. Skills/employment are owner-provided, not independently verified. LinkedIn destination content/sign-in behavior is not checked. Partner review and retry remain pending.

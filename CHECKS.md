@@ -40,3 +40,7 @@ In both options locate Work, Résumé and Profiles. Expand a case study.
 Confirm identical content and working evidence links. Have a human reviewer
 record the actual task result in GitHub, then retry an accepted change.
 
+
+## Résumé update — November 19
+
+Source: owner-supplied résumé PDF and LinkedIn URL. Education, dates, roles, skills, CurlQuest and activities transcribed with light wording edits. Public HTML and Markdown omit phone/email and do not publish the original PDF. Shared index contains the LinkedIn link for both layouts. Employment and skills not independently verified; LinkedIn destination and print/download behavior not tested. Earlier missing-detail entries describe the pre-update draft.
