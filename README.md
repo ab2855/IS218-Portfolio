@@ -19,9 +19,11 @@ This README is the continuing public project record. Update this same file as de
 - [Career research retained from Review 1](https://ab2855.github.io/IS218-Portfolio/career.html)
 - [Companion AI/programming research site](https://ab2855.github.io/IS218-Game/)
 - [Checks and remaining limitations](CHECKS.md)
+- [Review 2 content change](https://github.com/ab2855/IS218-Portfolio/commit/d58220c2e5e0cb5d3b2de20766db524ca1acb840)
+- [Successful Review 2 deployment](https://github.com/ab2855/IS218-Portfolio/actions/runs/44579316119)
 - [GitHub profile](https://github.com/ab2855) · [Portfolio repository](https://github.com/ab2855/IS218-Portfolio) · [Creative Project repository](https://github.com/ab2855/IS218-Game)
 
-The same portfolio is also deployed at the existing Sites address above. Both options use one HTML content tree, shared case studies, one résumé and the same profile links. A URL parameter and CSS change presentation; there are not two separately maintained websites. GitHub Pages publication for this revision must be confirmed in Actions before submission.
+The same portfolio is also deployed at the existing Sites address above. Both options use one HTML content tree, shared case studies, one résumé and the same profile links. A URL parameter and CSS change presentation; there are not two separately maintained websites. GitHub Pages publication succeeded for the Review 2 content revision: [deployment receipt](https://github.com/ab2855/IS218-Portfolio/actions/runs/44579316119). The public draft was opened in the browser; HTTP checks returned 200 for the portfolio, résumé and companion game research site.
 
 | Option | Presentation | What to ask a reader |
 | --- | --- | --- |

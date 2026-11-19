@@ -17,8 +17,11 @@ Revision: November 19, 2026. Assistant-performed checks; no human reviewer is cl
 ## Publication
 
 - Earlier GitHub Pages run succeeded: https://github.com/ab2855/IS218-Portfolio/actions/runs/43285793454 .
-- This revision's GitHub push, deployment and saved Sites publication are verified separately after upload; consult the latest Actions result. A prior successful run does not verify a newer revision.
-- Companion game research publication is linked from its repository documentation; live destination not verified in this check.
+- Review 2 content commit d58220c2e5e0cb5d3b2de20766db524ca1acb840 deployed successfully: https://github.com/ab2855/IS218-Portfolio/actions/runs/44579316119 .
+- Live GitHub Pages portfolio opened in the browser on November 19 and showed the new draft.
+- Direct HTTP checks returned 200 for the portfolio, résumé page and companion game research site; expected portfolio/PanicType content was present.
+- Saved Sites publication also succeeded for the same draft. Its existing owner-only access was preserved. Use the public GitHub Pages URL for class review.
+- Companion game research URL returned 200; its application claims were not retested because the repository is plan/SPEC only.
 
 ## Not run / not complete
 
